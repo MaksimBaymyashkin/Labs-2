@@ -1,0 +1,1 @@
+gfortran laba3.f90 -lblas -llapack -o out
